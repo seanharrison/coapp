@@ -6,7 +6,6 @@
   "author": "Sean Harrison",
   "author_email": "sah@blackearthgroup.com",
   "license": "LGPL 3.0",
-  "package_data": {},
   "classifiers": [
     "Development Status :: 1 - Alpha",
     "Intended Audience :: Developers",
@@ -19,5 +18,8 @@
     "dev": [],
     "test": []
   },
+  "package_data": {
+    "": ["*.jar", "*.sql", "*.xml", "*.xsl", "*.md", "*.TEMPLATE"]
+    },
   "data_files": []
 }
