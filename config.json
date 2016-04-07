@@ -11,10 +11,10 @@
     "Development Status :: 1 - Alpha",
     "Intended Audience :: Developers",
     "License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)",
-    "Programming Language :: Python :: 3.4"
+    "Programming Language :: Python :: 3"
   ],
   "entry_points": {},
-  "install_requires": [],
+  "install_requires": ["bl"],
   "extras_require": {
     "dev": [],
     "test": []
