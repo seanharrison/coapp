@@ -19,7 +19,8 @@
     "test": []
   },
   "package_data": {
-    "": ["*.jar", "*.sql", "*.xml", "*.xsl", "*.md", "*.TEMPLATE"]
+    "": []
     },
-  "data_files": []
+  "data_files": [],
+  "scripts": []
 }
