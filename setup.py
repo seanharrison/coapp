@@ -1,10 +1,10 @@
 config = {
-  "name": "",
+  "name": "coapp",
   "version": "0.1",
-  "description": "",
-  "url": "",
+  "description": "content app",
+  "url": "https://github.com/seanharrison/coapp",
   "author": "Sean Harrison",
-  "author_email": "sah@blackearthgroup.com",
+  "author_email": "sah@blackearth.us",
   "license": "LGPL 3.0",
   "classifiers": [
     "Development Status :: 3 - Alpha",
@@ -13,7 +13,7 @@ config = {
     "Programming Language :: Python :: 3"
   ],
   "entry_points": {},
-  "install_requires": ["bl"],
+  "install_requires": ["bl", "bsvn", "bsql", "tornado"],
   "extras_require": {
     "dev": [],
     "test": []
