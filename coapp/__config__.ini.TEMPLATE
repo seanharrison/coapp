@@ -1,0 +1,11 @@
+
+[App]
+root = {{App.root}}
+var = ${root}/var
+
+[SVN]
+url = ${local}
+local = {{SVN.local}}
+
+[Database]
+connection_string = ${App:var}/content.sqlite

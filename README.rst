@@ -1,5 +1,5 @@
-package-template
+coapp
 ================
-Template for creating a Python package
+content application
 
 
