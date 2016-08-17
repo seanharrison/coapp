@@ -13,7 +13,7 @@ config = {
     "Programming Language :: Python :: 3"
   ],
   "entry_points": {},
-  "install_requires": ["bl", "bsvn", "bsql", "tornado"],
+  "install_requires": ["bl", "bsvn", "bsql", "tornado", "pendulum"],
   "extras_require": {
     "dev": [],
     "test": []
